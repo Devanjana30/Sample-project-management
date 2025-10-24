@@ -1,2 +1,9 @@
 # Sample-project-management
-This repository contains a simple project demonstrating Agile workflow using GitHub
+## Description
+A simple Python program to calculate student grades based on marks input by the user
+## Team member
+Devanjana A
+## Features
+-Accepts marks for multiple subjects
+-calculates average and grade
+-Displays result summary
